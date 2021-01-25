@@ -8,6 +8,7 @@
 - 🌱 Looking foward to learn more about Data Science and Computer Security.
 - 😄 My pronouns are She/Her.
 
+</t>
 <a href="https://twitter.com/mihmindo">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
