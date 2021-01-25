@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 📕 I'm just a CS student at [University of São Paulo](https://www5.usp.br/) trying not to freak out with online college.
+- 📕 I'm just a CS student at [University of São Paulo](https://www5.usp.br/) trying not to freak out over online college.
 - 🌱 Looking foward to learn more about Data Science and Computer Security.
 - 😄 My pronouns are She/Her.
 
