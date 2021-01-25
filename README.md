@@ -7,7 +7,7 @@
 - 📕 I'm just a CS student at [University of São Paulo](https://www5.usp.br/) trying not to freak out over online college.
 - 🌱 Looking foward to learn more about Data Science and Computer Security.
 - 😄 My pronouns are She/Her.
-
+</br>
 <a href="https://twitter.com/mihmindo">
   <img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
