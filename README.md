@@ -1,4 +1,4 @@
-# Yoyoh! I'm Milena and this is my Github ~ヾ(・ω・*)
+# Yohow! I'm Milena and this is my Github ~ヾ(・ω・*)
 
 
 <img align="right" alt="GIF" src="https://64.media.tumblr.com/dd35d8033e45129721b41590438d254b/edbf4cb04b19bfa8-54/s400x600/b0be76f1c9b8a37a9926482ef0b6a0f716fdb24c.gif" />
